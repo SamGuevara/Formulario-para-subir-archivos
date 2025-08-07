@@ -23,6 +23,7 @@ Para crearla se procedió usando una base de base de datos ya existente (registr
 - Descomprime el archivo ZIP
   Como tiene archivos PHP y está vinculado a MySQL vamos a:
 - Moverlo a la carpeta "htdocs" (se ubica en el sistema, la ruta es /opt/lampp/htdocs, puede variar según sea tu sistema operativo)
+- Dentro de esta carpeta crear una neva carpeta con el nombre "uploads", en ella se almacenaran los archivos que suba el usuario
 
 # Creando la base de datos
 - Abre XAMPP, activa los servidores.
